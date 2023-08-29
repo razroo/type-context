@@ -1,4 +1,4 @@
-# type-context
+# type-context - "contextual type safety - cosine similarity search is all you need"
 Using context of key name, plus value of type to determine context
 
 This is the gist of the idea: 
